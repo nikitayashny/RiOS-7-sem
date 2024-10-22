@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A4A1BB-28D2-4F76-BEA4-D7A357CF9349}|ServerU\\ServerU.vcxproj|C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerU\\ServerU\\ServerU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16A4A1BB-28D2-4F76-BEA4-D7A357CF9349}|ServerU\\ServerU.vcxproj|solutionrelative:ServerU\\ServerU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088535EC-EA9E-4140-83DE-C0940302935B}|..\\ClientU\\ClientU\\ClientU.vcxproj|C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ClientU\\ClientU\\ClientU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientU.cpp",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ClientU\\ClientU\\ClientU.cpp",
+              "RelativeDocumentMoniker": "..\\ClientU\\ClientU\\ClientU.cpp",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ClientU\\ClientU\\ClientU.cpp",
+              "RelativeToolTip": "..\\ClientU\\ClientU\\ClientU.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T06:54:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerU.cpp",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerU\\ServerU\\ServerU.cpp",
+              "RelativeDocumentMoniker": "ServerU\\ServerU.cpp",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerU\\ServerU\\ServerU.cpp",
+              "RelativeToolTip": "ServerU\\ServerU.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T06:52:24.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerNTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FB10673-EFD5-464D-B855-94BCDAD6C92A}|ServerNTP.vcxproj|C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerNTP\\ServerNTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0FB10673-EFD5-464D-B855-94BCDAD6C92A}|ServerNTP.vcxproj|solutionrelative:ServerNTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerNTP.cpp",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerNTP\\ServerNTP.cpp",
+              "RelativeDocumentMoniker": "ServerNTP.cpp",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\ServerNTP\\ServerNTP.cpp",
+              "RelativeToolTip": "ServerNTP.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T06:50:32.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

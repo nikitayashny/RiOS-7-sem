@@ -1,0 +1,10 @@
+﻿  NTP.cpp
+F:\BGTU\4k\sem1\RIS\labs\RIS_Lab1\NTP\NTP\NTP.cpp(54,17): warning C4307: "*": переполнение целой константы со знаком
+  (компиляция исходного файла "/NTP.cpp")
+  
+F:\BGTU\4k\sem1\RIS\labs\RIS_Lab1\NTP\NTP\NTP.cpp(75,21): warning C4309: =: усечение константного значения
+  (компиляция исходного файла "/NTP.cpp")
+  
+F:\BGTU\4k\sem1\RIS\labs\RIS_Lab1\NTP\NTP\NTP.cpp(62,27): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (компиляция исходного файла "/NTP.cpp")
+  

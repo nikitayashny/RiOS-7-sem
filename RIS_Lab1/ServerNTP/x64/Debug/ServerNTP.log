@@ -1,0 +1,4 @@
+﻿  ServerNTP.cpp
+F:\BGTU\4k\sem1\RIS\labs\RIS_Lab1\ServerNTP\ServerNTP.cpp(15,17): warning C4307: "*": переполнение целой константы со знаком
+F:\BGTU\4k\sem1\RIS\labs\RIS_Lab1\ServerNTP\ServerNTP.cpp(28,21): warning C4309: =: усечение константного значения
+  ServerNTP.vcxproj -> F:\BGTU\4k\sem1\RIS\labs\RIS_Lab1\ServerNTP\x64\Debug\ServerNTP.exe

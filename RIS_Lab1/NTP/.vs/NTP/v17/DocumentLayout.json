@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\NTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57227F9B-9CFD-4BC4-A01C-84FAC515D09A}|NTP\\NTP.vcxproj|C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\NTP\\NTP\\NTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57227F9B-9CFD-4BC4-A01C-84FAC515D09A}|NTP\\NTP.vcxproj|solutionrelative:NTP\\NTP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D2BCB3-A1A6-4DE0-9F0D-56F9E27D6CE0}|NTP_Client\\NTP_Client.vcxproj|C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\NTP\\NTP_Client\\NTP_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D2BCB3-A1A6-4DE0-9F0D-56F9E27D6CE0}|NTP_Client\\NTP_Client.vcxproj|solutionrelative:NTP_Client\\NTP_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NTP.cpp",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\NTP\\NTP\\NTP.cpp",
+              "RelativeDocumentMoniker": "NTP\\NTP.cpp",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\NTP\\NTP\\NTP.cpp",
+              "RelativeToolTip": "NTP\\NTP.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T07:05:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NTP_Client.cpp",
+              "DocumentMoniker": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\NTP\\NTP_Client\\NTP_Client.cpp",
+              "RelativeDocumentMoniker": "NTP_Client\\NTP_Client.cpp",
+              "ToolTip": "C:\\bstu\\labs-7-sem\\rios-7-sem\\RIS_Lab1\\NTP\\NTP_Client\\NTP_Client.cpp",
+              "RelativeToolTip": "NTP_Client\\NTP_Client.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-05T07:05:23.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
